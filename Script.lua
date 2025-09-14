@@ -1,6 +1,6 @@
 -- CONFIG ----------
-local VALID_KEY = "examplekey123@#β"
-local KEY_LINK  = "https://your-key-link.example.com"
+local VALID_KEY = "ScrectKey0011223344฿฿฿"
+local KEY_LINK  = "https://zayerxhub.github.io/ZayerxHubz/"
 local NOTIFY_TIME = 3.5
 -------------------
 
